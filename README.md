@@ -3,7 +3,7 @@
 
 A beautiful website built using modern CSS technologies and Flexbox.
 
-View the live application by clicking on this link https://rituraj567.github.io/trillo/
+View the live application by clicking on this link https://rituraj567.github.io/trillo-project/
 
 Getting Started
 ===============
@@ -34,7 +34,6 @@ Technologies Used
 ===============
 
 - CSS3
-- CSS Grids
 - Flexbox
 - HTML5
 - SASS
